@@ -1,0 +1,126 @@
+{
+    "student": [
+        {
+            "fullname": "Erica Herzog",
+            "gender": false,
+            "email": "Yolanda_Champlin@gmail.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/women/20.jpg",
+            "dob": "1989-04-04T17:00:00.000Z",
+            "mobile": "(411) 256-5986",
+            "department": {
+                "name": "CNTT",
+                "id": "1"
+            },
+            "id": "1"
+        },
+        {
+            "fullname": "Ana Weissnat",
+            "gender": false,
+            "email": "Mckenzie9@gmail.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/women/70.jpg",
+            "dob": "2000-08-27T17:00:00.000Z",
+            "mobile": "477.509.8673 ",
+            "department": {
+                "name": "Kế toán",
+                "id": "4"
+            },
+            "id": "3"
+        },
+        {
+            "fullname": "Keaton Brennan",
+            "gender": false,
+            "email": "xibabow@mailinator.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/women/37.jpg",
+            "dob": "2023-05-25T17:00:00.000Z",
+            "mobile": "+1 (512) 316-1064",
+            "department": {
+                "name": "Điện tử - Viễn thông",
+                "id": "2"
+            },
+            "id": "7"
+        },
+        {
+            "fullname": "Marsden Holmes",
+            "gender": true,
+            "email": "cebydofi@mailinator.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/men/86.jpg",
+            "dob": "2005-07-22T17:00:00.000Z",
+            "mobile": "+1 (201) 165-5827",
+            "department": {
+                "name": "CNTT",
+                "id": "1"
+            },
+            "id": "8"
+        },
+        {
+            "fullname": "Shellie Herring",
+            "gender": false,
+            "email": "pajyx@mailinator.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/women/54.jpg",
+            "dob": "2021-11-01T17:00:00.000Z",
+            "mobile": "+1 (921) 332-8675",
+            "department": {
+                "name": "Kế toán",
+                "id": "4"
+            },
+            "id": "11"
+        },
+        {
+            "fullname": "Virginia Baldwin",
+            "gender": true,
+            "email": "lirum@mailinator.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/men/43.jpg",
+            "dob": "2004-04-05T17:00:00.000Z",
+            "mobile": "+1 (966) 474-7158",
+            "department": {
+                "name": "Tài chính ngân hàng",
+                "id": "3"
+            },
+            "id": "12"
+        },
+        {
+            "fullname": "Grant Mcmahon",
+            "gender": false,
+            "email": "jozubo@mailinator.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/women/29.jpg",
+            "dob": "1989-04-22T17:00:00.000Z",
+            "mobile": "+1 (706) 869-7416",
+            "department": {
+                "name": "Kế toán",
+                "id": "4"
+            },
+            "id": "17"
+        },
+        {
+            "fullname": "Raya Mcdonald",
+            "gender": false,
+            "email": "hykejuvuwu@mailinator.com",
+            "avatarUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+            "dob": "2000-07-24T17:00:00.000Z",
+            "mobile": "+1 (543) 524-5951",
+            "department": {
+                "name": "CNTT",
+                "id": "1"
+            },
+            "id": "19"
+        }
+    ],
+    "department": [
+        {
+            "name": "CNTT",
+            "id": "1"
+        },
+        {
+            "name": "Điện tử - Viễn thông",
+            "id": "2"
+        },
+        {
+            "name": "Tài chính ngân hàng",
+            "id": "3"
+        },
+        {
+            "name": "Kế toán",
+            "id": "4"
+        }
+    ]
+}
